@@ -11,9 +11,15 @@
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/github/languages/top/Alejandro-programer/Python_Projects_English_beginner?color=F7DF1E&style=for-the-badge&logo=python&logoColor=black" alt="Python Badge">
-  <img src="https://img.shields.io/github/directory-file-count/Alejandro-programer/Python_Projects_English_beginner?style=for-the-badge&color=blue&labelColor=black&logo=github" alt="File Count">
-  <img src="https://img.shields.io/github/repo-size/Alejandro-programer/Python_Projects_English_beginner?style=for-the-badge&color=green&labelColor=black&logo=hackthebox" alt="Repo Size">
+  <a href="https://github.com/Alejandro-programer">
+    <img src="https://img.shields.io/badge/PYTHON-100%25-orange?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+  </a>
+  <a href="https://github.com/Alejandro-programer/Python_Projects_English_beginner">
+    <img src="https://img.shields.io/badge/FILES-13-blue?style=for-the-badge" alt="File Count">
+  </a>
+  <a href="https://github.com/Alejandro-programer/Python_Projects_English_beginner">
+    <img src="https://img.shields.io/github/repo-size/Alejandro-programer/Python_Projects_English_beginner?style=for-the-badge&color=green" alt="Repo Size">
+  </a>
 </div>
 
 ---
@@ -51,12 +57,20 @@ I took my original codes (written in Portuguese 🇧🇷) and transformed them i
 
 ---
 
-## 💻 Setup & Gear
+## 💻 Setup & Gear (Click to Visit)
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" target="_blank">
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  </a>
+  <a href="https://www.microsoft.com/windows">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+  </a>
 </div>
 
 ---
