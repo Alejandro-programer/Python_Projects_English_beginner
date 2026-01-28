@@ -1,63 +1,67 @@
-# 🐍 Python Beginner Projects Collection
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" alt="Programming Gif"/>
+  
+  <h1>👾 Python Journey: Level Up! 🚀</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7DF1E&background=00000000&center=true&vCenter=true&width=435&lines=Press+Start+to+Begin...;Loading+Python+Scripts...;100%25+Translated+to+English;Developed+by+Alejandro!+😎" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/github/languages/top/Alejandro-programer/Python_Projects_English_beginner?color=yellow&style=for-the-badge" alt="Top Language">
-  <img src="https://img.shields.io/github/directory-file-count/Alejandro-programer/Python_Projects_English_beginner?style=for-the-badge" alt="File Count">
-  <img src="https://img.shields.io/github/repo-size/Alejandro-programer/Python_Projects_English_beginner?style=for-the-badge" alt="Repo Size">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Exploring+Python+Fundamentals;International+Code+Translation;Logic+and+Calculations;Welcome+to+my+Journey!" alt="Typing SVG" />
-</p>
-
----
-
-## 🚀 About the Repository
-This repository contains a collection of **13 Python scripts** developed during my learning journey. Every project was originally written in Portuguese and has been fully translated into **English** to follow international coding standards. 
-
-### 🛠️ Key Transformations:
-* **Language:** All variables, comments, and strings translated to English.
-* **Currency:** Formatted from **R$** to **US$**.
-* **Logic:** Clean and optimized code using modern Python techniques.
-
----
-
-## 📂 Project List
-
-| Project Name | Description |
-| :--- | :--- |
-| 🎮 **Guessing Numbers** | A game where the computer thinks of a number and you try to guess it. |
-| 📐 **Triangle Analyzer** | Checks if three segments can form a triangle using geometric logic. |
-| 👤 **Name Analyzer** | Deep dive into string manipulation (cases, counting, and splitting). |
-| 📅 **Leap Year** | Automatically identifies if a specific year is a leap year. |
-| 🔢 **Max and Min Number** | Logic to find the highest and lowest values among inputs. |
-| ⚖️ **Even or Odd** | Quick math check to determine parity. |
-| ✈️ **Travel Price** | Calculates ticket costs based on travel distance. |
-| 🔤 **Counting Letter A** | Advanced string search to find and locate specific characters. |
-| 🚨 **Electronic Radar** | Speed monitor that calculates fines for speeding drivers. |
-| 💰 **Employee Salary** | Calculates salary raises based on specific percentage rules. |
-| 📂 **Splitting Numbers** | Decomposes 4-digit numbers into units, tens, hundreds, and thousands. |
-| 🔍 **Checking for Silva** | Boolean check to find specific surnames in a full name. |
-| ⚙️ **Calculation** | **(Custom)** Professional tool developed to calculate material costs (Steel/Alu). |
-
----
-
-## 💻 Tech Stack
+<br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/github/languages/top/Alejandro-programer/Python_Projects_English_beginner?color=F7DF1E&style=for-the-badge&logo=python&logoColor=black" alt="Python Badge">
+  <img src="https://img.shields.io/github/directory-file-count/Alejandro-programer/Python_Projects_English_beginner?style=for-the-badge&color=blue&labelColor=black&logo=github" alt="File Count">
+  <img src="https://img.shields.io/github/repo-size/Alejandro-programer/Python_Projects_English_beginner?style=for-the-badge&color=green&labelColor=black&logo=hackthebox" alt="Repo Size">
 </div>
 
 ---
 
-## 📈 Learning Progress
-- [x] Basic Syntax
-- [x] String Manipulation
-- [x] Logical Operators
-- [x] Conditional Statements (if/else/ternary)
-- [x] Real-world Math Applications
+## ⚡ About the Mission
+Yo! Welcome to my coding playground. 🚧 
+This repository is a collection of **13 Challenges** that I crushed using **Python**. 🐍💥
+
+I took my original codes (written in Portuguese 🇧🇷) and transformed them into a global standard (English 🇺🇸), upgrading the logic and the style!
+
+### 🎯 What I unlocked here:
+* 🧠 **Logic & Algorithms** (The brain stuff)
+* 🔢 **Math Mastery** (Calculating like a pro)
+* 🎨 **Clean Code** (Looking fresh)
 
 ---
-<p align="center">
-Developed with ❤️ by <a href="https://github.com/Alejandro-programer">Alejandro</a>
-</p>
+
+## 🕹️ Project Arcade (The Games)
+
+| 📁 File Name | 📜 Mission Objective | 🛠️ Skills Used |
+| :--- | :--- | :--- |
+| **`Guessing Numbers.py`** | 🔮 **Oracle Mode:** The PC tries to trick you. Can you guess the number? | `Random` `Luck` |
+| **`Triangle Analyzer.py`** | 📐 **Geo-Master:** Checks if 3 lines can physically build a triangle. | `Geometry` `Logic` |
+| **`Name Analyzer.py`** | 🕵️ **Data Detective:** Dissects your name (Upper, Lower, Counts). | `String Manipulation` |
+| **`Leap Year.py`** | 📅 **Time Traveler:** Finds out if a year has that extra day (Feb 29). | `Date Time` |
+| **`Max and Min.py`** | 📊 **High Score:** Hunts down the highest and lowest numbers. | `Comparisons` |
+| **`Even or Odd.py`** | ⚖️ **Balance Check:** The classic math duel. 0 or 1? | `Modulus %` |
+| **`Travel Price.py`** | 🚕 **Taxi Driver:** Calculates the fair price for your trip distance. | `Math` `If/Else` |
+| **`Counting Letter A.py`** | 🅰️ **Sniper:** Locates every single "A" in a text with precision. | `Indexing` `Find` |
+| **`Electronic Radar.py`** | 🚓 **Speed Cop:** Catching speeders! Calculates the fine automatically. | `Conditionals` |
+| **`Employee Salary.py`** | 💸 **Money Maker:** Giving raises to employees based on rules. | `Percentage` |
+| **`Splitting Numbers.py`** | 🔢 **The Butcher:** Chops a 4-digit number into pieces (1000s, 100s...). | `Math Ops` |
+| **`Check for Silva.py`** | 🆔 **ID Scanner:** Are you part of the Silva family? Returns True/False. | `Booleans` |
+| **`Calculation.py`** | 🏗️ **Engineer Mode:** Custom tool to price materials (Steel/Alu). | `Real World Logic` |
+
+---
+
+## 💻 Setup & Gear
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" target="_blank">
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank">
+</div>
+
+---
+
+<div align="center">
+  <h3>🚀 Ready for the next level!</h3>
+  <sub>Made with ⚡ energy by <a href="https://github.com/Alejandro-programer">Alejandro</a></sub>
+</div>
