@@ -1,0 +1,10 @@
+number = int(input('Enter a 4-digit number: \n'))
+number_str = str(number)
+
+print('Analyzing numbers...')
+print('=' * 15)
+print('Units: {}'.format(number_str[3]))
+print('Tens: {}'.format(number_str[2]))
+print('Hundreds: {}'.format(number_str[1]))
+print('Thousands: {}'.format(number_str[0]))
+print('=' * 15)
