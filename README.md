@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" alt="Programming Gif"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" alt="Programming Gif"/>
 
-  <h1>🐍 Python World 2 - Challenge Collection 🚀</h1>
+  <h1>👾 Python Journey: First Challenges 🚀</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF88&background=00000000&center=true&vCenter=true&width=500&lines=Loading+Python+Challenges...;World+2+Unlocked!+🎮;Improving+Logic+Every+Day...;Future+Software+Engineer+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7DF1E&background=00000000&center=true&vCenter=true&width=500&lines=Starting+the+Python+Adventure...;First+Challenges+Completed!;Learning+Programming+Logic...;Developed+by+Alejandro+😎" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,106 +12,79 @@
 
 <div align="center">
   <a href="https://github.com/Alejandro-programer">
-    <img src="https://img.shields.io/badge/PYTHON-3.x-blue?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/PYTHON-100%25-blue?style=for-the-badge&logo=python&logoColor=white">
   </a>
 
-  <img src="https://img.shields.io/badge/WORLD-2-success?style=for-the-badge">
+  <a href="#">
+    <img src="https://img.shields.io/badge/FILES-12-green?style=for-the-badge">
+  </a>
 
-  <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-orange?style=for-the-badge">
-
-  <img src="https://img.shields.io/badge/LEVEL-UP-brightgreen?style=for-the-badge">
+  <a href="#">
+    <img src="https://img.shields.io/badge/LEVEL-BEGINNER-orange?style=for-the-badge">
+  </a>
 </div>
 
 ---
 
-# 🎯 About This Repository
+## ⚡ About the Mission
 
-Welcome to my **Python learning journey!**
+Welcome to the beginning of my Python journey! 🐍
 
-This repository contains dozens of exercises developed while studying Python. Each challenge helped me improve my:
+This repository contains my first programming challenges developed while learning Python fundamentals.
+
+Each project helped me improve:
 
 - 🧠 Programming Logic
+- 🔢 Mathematical Thinking
+- 🎯 Problem Solving
 - 🐍 Python Syntax
-- 🔢 Mathematical Reasoning
-- 📊 Data Analysis
-- ⚡ Problem Solving
-- 🎮 Algorithm Development
-
-These exercises are part of my path toward becoming a Software Engineer and AI Developer.
+- ⚡ Conditional Statements
 
 ---
 
-# 🕹️ Challenge Arcade
+## 🕹️ Project Arcade
 
-## 🔢 Mathematics & Calculations
-
-| Challenge | Description |
-|------------|------------|
-| 🧮 Factorial Calculator | Calculates factorials of numbers |
-| 📈 Arithmetic Progression | Generates arithmetic sequences |
-| 🔄 Arithmetic Progression V2 | Infinite progression generator |
-| 🌀 Fibonacci Sequence | Generates Fibonacci numbers |
-| ➕ Sum of Even Numbers | Mathematical calculations |
-| 🎯 Prime Numbers | Prime number verification |
-| 🔢 Number Base Converter | Binary, Octal and Hexadecimal conversion |
-| ✖️ Multiplication Table V2 | Dynamic multiplication tables |
-
----
-
-## 📊 Analysis & Statistics
-
-| Challenge | Description |
-|------------|------------|
-| 📈 Complete Analyzer | Analyzes user data |
-| 🏆 Highest and Lowest | Finds maximum and minimum values |
-| 📋 Handling Multiple Values | List manipulation |
-| 🔍 Several Numbers with Flag | Input validation |
-| 📊 Grade Average | School grade calculations |
+| 📁 File Name | 📜 Mission Objective | 🛠️ Skills Used |
+| :--- | :--- | :--- |
+| **`Guessing Numbers.py`** | 🔮 Guess the secret number chosen by the computer. | `Random` `Logic` |
+| **`Triangle Analyzer.py`** | 📐 Verify if three segments can form a triangle. | `Geometry` `Conditions` |
+| **`Name Analyzer.py`** | 🕵️ Analyze names and text information. | `Strings` |
+| **`Leap Year.py`** | 📅 Determine whether a year is leap year. | `Date Logic` |
+| **`Max and Min.py`** | 📊 Find the highest and lowest values. | `Comparisons` |
+| **`Even or Odd.py`** | ⚖️ Determine if a number is even or odd. | `Modulus Operator` |
+| **`Travel Price.py`** | 🚕 Calculate travel ticket prices. | `Math` `If/Else` |
+| **`Counting Letter A.py`** | 🅰️ Count and locate occurrences of the letter A. | `Strings` |
+| **`Electronic Radar.py`** | 🚓 Calculate speeding fines automatically. | `Conditionals` |
+| **`Employee Salary.py`** | 💸 Calculate employee salary increases. | `Percentages` |
+| **`Splitting Numbers.py`** | 🔢 Break numbers into units, tens, hundreds and thousands. | `Math Operations` |
+| **`Check for Silva.py`** | 🆔 Check if a name contains "Silva". | `Booleans` `Strings` |
 
 ---
 
-## 🎮 Games
+## 🎯 What I Learned
 
-| Challenge | Description |
-|------------|------------|
-| 🎲 Guessing Game | Guess the secret number |
-| ✂️ Rock Paper Scissors | Classic game against the computer |
+### 🧠 Programming Concepts
 
----
+- Variables
+- User Input
+- Conditional Statements
+- Arithmetic Operations
+- String Manipulation
+- Logical Operators
+- Data Validation
 
-## 🧠 Logic Challenges
+### 🐍 Python Skills
 
-| Challenge | Description |
-|------------|------------|
-| ✔️ Data Validation | Checks user input |
-| ⚖️ Comparing Values | Number comparison |
-| ⏳ Countdown | Countdown simulation |
-| 🔄 Creating Menus | Interactive options system |
-| 🪞 Palindrome Detector | Checks palindromes |
-
----
-
-## 🏦 Financial Challenges
-
-| Challenge | Description |
-|------------|------------|
-| 💰 Loan Approval | Simulates bank loan approval |
-| 💳 Payment Management | Calculates payment methods |
+- `if`, `else`, `elif`
+- `input()`
+- `print()`
+- `random`
+- String methods
+- Mathematical operators
 
 ---
 
-## 👥 Personal Information Challenges
-
-| Challenge | Description |
-|------------|------------|
-| 🎖️ Military Enlistment | Military service verification |
-| 🏃 Athlete Classification | Sports category system |
-| 🎂 Coming of Age Group | Age classification |
-| 🔺 Triangle Analyzer V2 | Triangle validation and classification |
-
----
-
-# 🚀 Run a Project
+## 🚀 Running the Projects
 
 Clone the repository:
 
@@ -119,66 +92,60 @@ Clone the repository:
 git clone https://github.com/Alejandro-programer/Python_Projects_English_beginner.git
 ```
 
-Enter the folder:
+Open the project folder:
 
 ```bash
 cd Python_Projects_English_beginner
 ```
 
-Run any challenge:
+Run any file:
 
 ```bash
-python challenge_name.py
-```
-
-Example:
-
-```bash
-python "Guessing Game.py"
+python "Guessing Numbers.py"
 ```
 
 ---
 
-# 🛠️ Technologies
+## 💻 Setup & Gear
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,vscode,git,github" />
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+</a>
+
+<a href="https://code.visualstudio.com/">
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</a>
+
+<a href="https://git-scm.com/">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</a>
+
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </div>
 
 ---
 
-# 📈 Current Progress
+## 📈 Progress Bar
 
 ```text
 Python Fundamentals     ████████████████████░░░ 90%
-Problem Solving         ██████████████████░░░░ 85%
-Algorithms              ████████████████░░░░░░ 75%
-Data Structures         ███████████░░░░░░░░░░░ 50%
+Logic Building          ██████████████████░░░░ 85%
+Problem Solving         █████████████████░░░░░ 80%
+Algorithms              ████████████░░░░░░░░░ 60%
 ```
-
----
-
-# 🎯 Future Goals
-
-- ✅ Master Python
-- ✅ Learn Data Structures
-- 🔄 Learn Algorithms
-- 🔄 Build Real Projects
-- 🔄 Enter USP Computer Science
-- 🔄 Become an AI Engineer
-- 🔄 Create a Technology Company
 
 ---
 
 <div align="center">
 
-## 🚀 Press Start for the Next Level
+### 🚀 The journey has just begun...
 
-*"Every expert was once a beginner."*
-
-<img src="https://github-readme-stats.vercel.app/api?username=Alejandro-programer&show_icons=true&theme=tokyonight"/>
+*"Small projects today, big software tomorrow."*
 
 <br>
 
